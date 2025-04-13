@@ -5,3 +5,13 @@
 [4/13/2025 5:49:24 PM]  UserForm_Initialize >>> Line 22 >>> Object doesn't support this property or method
 [4/13/2025 5:50:29 PM]  UserForm_Initialize >>> Line 22 >>> Object doesn't support this property or method
 [4/13/2025 5:55:27 PM]  UserForm_Initialize >>> Line 22 >>> Object doesn't support this property or method
+[4/13/2025 10:01:53 PM]  UserForm_Initialize >>> Line 23 >>> Object required
+[4/13/2025 10:06:15 PM]  UserForm_Initialize >>> Line 23 >>> Invalid picture
+[4/13/2025 10:07:06 PM]  UserForm_Initialize >>> Line 23 >>> Invalid picture
+[4/13/2025 10:21:17 PM]  f_room_list.addDictToCombobox >>> Line 2 >>> Method 'Range' of object '_Worksheet' failed
+[4/13/2025 10:21:17 PM]  UserForm_Initialize >>> Line 19 >>> Method 'Range' of object '_Worksheet' failed
+[4/13/2025 10:21:39 PM]  f_room_list.addDictToCombobox >>> Line 2 >>> Method 'Range' of object '_Worksheet' failed
+[4/13/2025 10:21:39 PM]  UserForm_Initialize >>> Line 19 >>> Method 'Range' of object '_Worksheet' failed
+[4/13/2025 10:22:35 PM]  f_room_list.addDictToCombobox >>> Line 2 >>> Method 'Range' of object '_Worksheet' failed
+[4/13/2025 10:22:35 PM]  UserForm_Initialize >>> Line 19 >>> Method 'Range' of object '_Worksheet' failed
+[4/13/2025 10:23:22 PM]  UserForm_Initialize >>> Line 24 >>> Invalid picture
